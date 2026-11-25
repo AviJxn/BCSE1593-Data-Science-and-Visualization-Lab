@@ -10,6 +10,7 @@ This folder contains lab reports, assignment PDFs, notes, and other documentatio
 BCSE1593-Data-Science-and-Visualization-Lab/
 ├── README.md
 ├── datasets/
+│   ├── IRIS.csv
 │   ├── README.md
 │   └── diabetes.csv
 ├── docs/
@@ -35,3 +36,4 @@ BCSE1593-Data-Science-and-Visualization-Lab/
 └── requirements.txt
 
 ```
+
